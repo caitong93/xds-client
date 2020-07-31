@@ -1,6 +1,6 @@
 ## xds-client
 
-Client for xDS protocol, for debugging
+Client for [xDS protocol](https://www.envoyproxy.io/docs/envoy/latest/api-docs/xds_protocol#xds-protocol), for debugging
 
 ### Get Started
 
