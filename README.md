@@ -2,6 +2,8 @@
 
 Client for [xDS protocol](https://www.envoyproxy.io/docs/envoy/latest/api-docs/xds_protocol#xds-protocol), for debugging
 
+Modified from https://github.com/istio/istio/blob/1.6.6/pkg/adsc/adsc.go
+
 ### Get Started
 
 ```
